@@ -3,9 +3,9 @@ Fui Desafiado a subir uma projeto sobre Git/Github, por se tratar de um desefaio
 
 
 
-## Valando um pouco desse exercício
+## Falando um pouco desse exercício...
 
-Como ja havia falado, é apenas um exercício de fixação para da linguagem C, a proposta do exercíccio é:  Apresentar uma entrada ao usúario para que digite a velocidade Kilometros, e o programa retornará a converção em metros por segundo. 
+Como ja havia falado, é apenas um exercício de fixação para da linguagem C, a proposta do exercíccio é:  Apresentar uma entrada ao usúario para que o mesmo digite a velocidade Kilometros, e o programa retornará a converção em metros por segundo. 
 
 
 
